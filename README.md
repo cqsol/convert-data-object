@@ -59,5 +59,5 @@ Generate test coverage report with:
 npm run test:coverage
 ```
 
-example:
-image.png
+example usage:
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/d051377a-2fe7-406c-9741-509c5d7b94c9" />
