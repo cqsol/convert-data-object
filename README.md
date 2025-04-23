@@ -59,6 +59,5 @@ Generate test coverage report with:
 npm run test:coverage
 ```
 
-## License
-
-ISC 
+example:
+image.png
